@@ -10,6 +10,10 @@ Where to find me
 
 [LinkedIn](https://www.linkedin.com/in/danielboye/) 
 
+I also made my own 90s style website that you can check out!
+
+https://danielboye.netlify.app/
+
 <br>
 
 <a href="https://github.com/swepool/github-readme-stats">
