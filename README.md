@@ -8,9 +8,13 @@ Where to find me
 
 [LinkedIn](https://www.linkedin.com/in/danielboye/) 
 
-I also made my own 90s style website that you can check out!
+Check out some of my work!
 
-https://danielboye.netlify.app/
+* [Blender](https://github.com/DanielBoye/ToFX-Blender) sofa based on a real one (looks like a real one too!)
+* All my [HackTheBox](https://github.com/DanielBoye/HackTheBox) Academy writeups/notes
+* Some [python](https://github.com/DanielBoye/python-matte) I write for math 
+
+and much more!
 
 <br>
 
