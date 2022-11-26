@@ -10,6 +10,7 @@ Where to find me
 
 Check out some of my work!
 
+* [Exbitron API CLI](https://github.com/DanielBoye/exbitron-bot) to check your balance and trades in the terminal! 
 * [Blender](https://github.com/DanielBoye/ToFX-Blender) sofa based on a real one (looks like a real one too!)
 * All my [HackTheBox](https://github.com/DanielBoye/HackTheBox) Academy writeups/notes
 * Some [python](https://github.com/DanielBoye/python-matte) I write for math 
