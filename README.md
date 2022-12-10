@@ -8,15 +8,34 @@ Where to find me
 
 [LinkedIn](https://www.linkedin.com/in/danielboye/) 
 
-Check out some of my work!
+## Projects
 
-* [Exbitron API CLI](https://github.com/DanielBoye/exbitron-bot) to check your balance and trades in the terminal! 
-* [Blender](https://github.com/DanielBoye/ToFX-Blender) sofa based on a real one (looks like a real one too!)
-* All my [HackTheBox](https://github.com/DanielBoye/HackTheBox) Academy writeups/notes
-* Some [python](https://github.com/DanielBoye/python-matte) I write for math 
-* C files I have [made](https://github.com/DanielBoye/C-Programmering)
+**Exbitron API CLI**
 
-and much more!
+A command line interface to the trading platform Exbitron with API keys! Check your orders and wallet in your terminal in seconds. 
+
+---
+
+**A server-client solution** with two Lego Mindstom EV3. More info will come when everything is written.
+
+The final robot is a robot that is driven purly by user input and acts like a robot in Robot Wars. It has weapons and such. 
+
+---
+
+My semester project that **encrypts text** based on **user input** on a website.
+
+Link to that website is [here](https://caesarchiffer.netlify.app/)
+
+---
+
+**Python files** I have written for 1T math. 
+
+---
+
+All my **HackTheBox Academy writeups/notes**
+
+---
+
 
 <br>
 
