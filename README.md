@@ -4,9 +4,7 @@ My name is Daniel Boye, a 16-year old Norwegian boy thats not like other 16-year
 
 I like crypto, privacy, linux and fighterjets
 
-Where to find me 
-
-[LinkedIn](https://www.linkedin.com/in/danielboye/) 
+You can find me on [LinkedIn](https://www.linkedin.com/in/danielboye/) 
 
 Be sure to check out some of my cool projects that I have pinned down below
 
@@ -17,7 +15,7 @@ Be sure to check out some of my cool projects that I have pinned down below
 </a>
 
 
+<br>
+<br> 
 
-
- 
- 
+<img src="https://komarev.com/ghpvc/?username=DanielBoye&color=blue">
