@@ -16,4 +16,8 @@ Be sure to check out some of my cool projects that I have pinned down below
 <br>
 <br> 
 
+---
+
+**for [demonstration purposes](https://github.com/DanielBoye/github-views)**
+
 <img src="https://komarev.com/ghpvc/?username=DanielBoye&color=blue">
