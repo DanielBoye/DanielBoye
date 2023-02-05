@@ -1,10 +1,10 @@
 # Hello 👋
 
-My name is Daniel Boye, a 16-year old Norwegian boy
+My name is Daniel Boye
 
 You can find me on [LinkedIn](https://www.linkedin.com/in/danielboye/) 
 
-Be sure to check out some of my cool projects that I have pinned down below
+Be sure to check out some of my cool projects that I have pinned down below!
 
 <br>
 
