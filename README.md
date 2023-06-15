@@ -9,11 +9,15 @@
 - Self-taught 
 - CTF player
 
-<br>
 
-Works at Konciv as a Product Trainee and goes to High School. Member of the **Cyber National Team for Norway**. Will take the subject Technology and Research X as an extracurricular during the year. Next year, will take Technology and Design at University, as well as the subject Programming and Modeling X.
+<h3>About me</h3>
+
+Works at Konciv as a Product Trainee and goes to High School
+
+Member of the [**Cyber National Team for Norway**](https://cyberlandslaget.no/landslaget)
 
 
+Will take the subject Technology and Research X as an extracurricular during the year. Next year, will take Technology and Design at University, as well as the subject Programming and Modeling X.
 
 <h3 align="left">Feel free to connect with me:</h3>
 
@@ -21,7 +25,6 @@ Works at Konciv as a Product Trainee and goes to High School. Member of the **Cy
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/danielboye/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/danielboye/" height="30" width="40" /></a>
 </p>
-
 
 <h3 align="left">Languages</h3>
 <p align="left"> 
@@ -73,12 +76,13 @@ Works at Konciv as a Product Trainee and goes to High School. Member of the **Cy
 
 <br>
 
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=danielboye&show_icons=true&theme=dark&locale=en&layout=compact" alt="danielboye" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=danielboye&show_icons=true&theme=dark&hide_border=true&locale=en&layout=compact" alt="danielboye" /></p>
 
 <br>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=danielboye&" alt="danielboye" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=danielboye&theme=dark" alt="danielboye" /></p>
+
+<br>
 
 <br> 
 
