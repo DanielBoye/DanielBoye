@@ -76,7 +76,7 @@ Will take the subject Technology and Research X as an extracurricular during the
 
 <br>
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=danielboye&show_icons=true&theme=dark&hide_border=true&locale=en&layout=compact" alt="danielboye" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=danielboye&show_icons=true&theme=dark&hide_border=true&locale=en&layout=compact&exclude_repo=ctf,temperature-reader,1T,landingpage,Lego-Mindstorm-EV3,Semesteroppgave-i-valgfag-programmering" alt="danielboye" /></p>
 
 <br>
 
