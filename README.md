@@ -1,24 +1,16 @@
 <h1 align="center">Hi 👋, I'm Daniel Boye</h1>
-<h3 align="center">A passionate Cyber Security and High School Student</h3>
+<h3 align="center">Blockchain and Cyber Security</h3>
 
 <br>
 
 - 17 years old 
-- Member of the **Cyber National Team for Norway**
-- Actively studies cyber security and blockchain 
-- Self-taught 
-- CTF player @NorskeNøkkelsnikere
+- Member of the [**Cyber National Team for Norway**](https://cyberlandslaget.no/)
+- Actively studies blockchain and cyber security 
+- CTF player [**@Norske Nøkkelsnikere**](https://nnsctf.no/)
+- Work [@Konciv](https://www.konciv.com/)
 
+Check out my pinned repositories down below 😎
 
-<h3>About me</h3>
-
-Works at Konciv as a Product Trainee and goes to High School
-
-Member of the [**Cyber National Team for Norway**](https://cyberlandslaget.no/landslaget)
-
-Plays CTFs at [**Norske Nøkkelsnikere**](https://nnsctf.no/)
-
-Does blockchain 😎
 
 <h3 align="left">Feel free to connect with me:</h3>
 
