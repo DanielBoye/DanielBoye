@@ -16,8 +16,9 @@ Works at Konciv as a Product Trainee and goes to High School
 
 Member of the [**Cyber National Team for Norway**](https://cyberlandslaget.no/landslaget)
 
+Plays CTFs at [**Norske Nøkkelsnikere**](https://nnsctf.no/)
 
-Will take the subject Technology and Research X as an extracurricular during the year. Next year, will take Technology and Design at University, as well as the subject Programming and Modeling X.
+Does blockchain 😎
 
 <h3 align="left">Feel free to connect with me:</h3>
 
