@@ -3,7 +3,6 @@
 
 <br>
 
-- 18 years old 
 - Member of the [**Cyber National Team for Norway**](https://cyberlandslaget.no/)
 - Actively studies blockchain and cyber security 
 - CTF player [**@Norske Nøkkelsnikere**](https://nnsctf.no/)
