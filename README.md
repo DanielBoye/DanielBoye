@@ -3,7 +3,7 @@
 
 <br>
 
-- Member of the [**Cyber National Team for Norway**](https://cyberlandslaget.no/)
+- Prior member of the [**Norwegian National Cybersecurity Team**](https://cyberlandslaget.no/)
 - Actively studies blockchain and cyber security 
 - CTF player [**@Norske Nøkkelsnikere**](https://nnsctf.no/)
 - Work [**@Konciv**](https://www.konciv.com/)
