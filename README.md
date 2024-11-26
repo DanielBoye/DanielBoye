@@ -3,7 +3,7 @@
 
 <br>
 
-- Smart Contract Auditor Intern at [**@Nethermind**](https://www.nethermind.io/)
+- Ex Intern at [**@Nethermind**](https://www.nethermind.io/)
 - Prior member of the [**Norwegian National Cybersecurity Team**](https://cyberlandslaget.no/)
 - Actively studies blockchain and cyber security 
 - CTF player [**@Norske Nøkkelsnikere**](https://nnsctf.no/)
