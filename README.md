@@ -4,8 +4,8 @@
 <br>
 
 - Ex Intern at [**@Nethermind**](https://www.nethermind.io/)
-- Prior member of the [**Norwegian National Cybersecurity Team**](https://cyberlandslaget.no/)
-- Actively studies blockchain and cyber security 
+- Member of the [**Norwegian National Cybersecurity Team**](https://cyberlandslaget.no/)
+- Blockchain and cybersecurity 
 - CTF player [**@Norske Nøkkelsnikere**](https://nnsctf.no/)
 - Work [**@Konciv**](https://www.konciv.com/)
 
